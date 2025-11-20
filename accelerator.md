@@ -12,7 +12,7 @@ adopting open banking compliance. Instead of building a solution from scratch, y
 Accelerator to meet all legislative requirements with additional benefits beyond compliance. The accelerator runs on top
 of WSO2 Identity Server and WSO2 API Manager.
 
-<img src="/img/accelerator/accelerator-toolkit-model.png" width="80%">
+<img src="https://lasithlri.github.io/open_banking_demo_test/img/accelerator/accelerator-toolkit-model.png" width="80%">
 
 The accelerator mainly addresses the open banking requirements such as API consumer application onboarding, consent
 management, and access authorization among numerous other 
@@ -20,7 +20,7 @@ management, and access authorization among numerous other
 banking solution. You can easily [implement a toolkit](https://ob.docs.wso2.com/en/latest/develop/develop-toolkit/) 
 to customize the accelerator and help you comply with any regional open banking standard.
 
-<img src="/img/accelerator/layered-architecture.png" width="80%">
+<img src="https://lasithlri.github.io/open_banking_demo_test/img/accelerator/layered-architecture.png" width="80%">
 
 ## Capabilities
 
